@@ -1,0 +1,131 @@
+{"kind":"deck","id":"pr/k6l4b6","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"第二十周组会汇报","textShapes":4}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Rectangle 1","bbox":[0.94,0.94,1277.86,73.7]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"Rectangle 2","bbox":[0.94,652.91,1277.86,65.2]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"Rectangle 3","bbox":[0.94,76.54,17.01,577.32]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"TextBox 4","text":"第二十周组会汇报","textPreview":"第二十周组会汇报","textChars":8,"textLines":1,"bbox":[56.69,113.39,1133.86,75.59]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"TextBox 7","text":"汇报人：杨帆","textPreview":"汇报人：杨帆","textChars":6,"textLines":1,"bbox":[56.69,302.36,566.93,37.8]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"TextBox 8","text":"日期：2026.07.17","textPreview":"日期：2026.07.17","textChars":13,"textLines":1,"bbox":[56.69,347.72,566.93,37.8]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"TextBox 9","text":"跨层窗口：定义压实与数据链路预实验","textPreview":"跨层窗口：定义压实与数据链路预实验","textChars":17,"textLines":1,"bbox":[56.69,11.34,755.91,45.35]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"第 2 页","textShapes":6}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"TextBox 1","text":"第 2 页","textPreview":"第 2 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"TextBox 2","text":"第 1 周完成概览【预实验】","textPreview":"第 1 周完成概览【预实验】","textChars":14,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Rectangle 4","text":"本周定位","textPreview":"本周定位","textChars":4,"textLines":1,"bbox":[75.59,128.5,1096.06,32.13]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"TextBox 5","text":"从“问题定义”推进到“可复核数据链路”；\n不把窗口存在预写成 MEV 结论。","textPreview":"从“问题定义”推进到“可复核数据链路”； | 不把窗口存在预写成 MEV 结论。","textChars":38,"textLines":2,"bbox":[75.59,166.3,1096.06,60.47]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"Rectangle 6","text":"实际交付","textPreview":"实际交付","textChars":4,"textLines":1,"bbox":[75.59,243.78,1096.06,32.13]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"TextBox 7","text":"1. 三篇定向精读：识别、能力、反事实收益\n2. 完成窗口定义、对象映射和三角色模型\n3. 真实 Arbitrum：40 batch + 25 retryable 精确映射\n4. 形成字段表、原始响应、结果图与失败诊断\n","textPreview":"1. 三篇定向精读：识别、能力、反事实收益 | 2. 完成窗口定义、对象映射和三角色模型 | 3. 真实 Arbitrum：40 batch + 25 retryable 精确映射 | 4. 形成字段表、原始响应、结果图与失败诊断 |","textChars":110,"textLines":5,"bbox":[75.59,275.91,1096.06,151.18]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"第 3 页","textShapes":9}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"TextBox 1","text":"第 3 页","textPreview":"第 3 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"TextBox 2","text":"本周重点阅读：3篇论文 · 3类约束","textPreview":"本周重点阅读：3篇论文 · 3类约束","textChars":18,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"TextBox 4","text":"目标：补足“可观测 ≠ 可利用”的证据链，而非机械扩展阅读量","textPreview":"目标：补足“可观测 ≠ 可利用”的证据链，而非机械扩展阅读量","textChars":30,"textLines":1,"bbox":[68.03,120.94,1096.06,30.24]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Rectangle 5","bbox":[60.47,162.52,283.46,283.46]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"Rectangle 6","text":"🟠  Quantifying BEV","textPreview":"🟠  Quantifying BEV","textChars":19,"textLines":1,"bbox":[60.47,162.52,283.46,41.57]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"TextBox 7","text":"提取：事件启发式与 ground truth 缺口\n用途：避免把表面异常当作已识别收益","textPreview":"提取：事件启发式与 ground truth 缺口 | 用途：避免把表面异常当作已识别收益","textChars":43,"textLines":2,"bbox":[68.03,211.65,268.35,219.21]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"Rectangle 8","bbox":[362.83,162.52,283.46,283.46]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"Rectangle 9","text":"🟡  MEV in AMM Theory","textPreview":"🟡  MEV in AMM Theory","textChars":21,"textLines":1,"bbox":[362.83,162.52,283.46,41.57]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"TextBox 10","text":"提取：排序者/搜索者/状态边界\n用途：明确单 Sequencer 可见性与能力","textPreview":"提取：排序者/搜索者/状态边界 | 用途：明确单 Sequencer 可见性与能力","textChars":39,"textLines":2,"bbox":[370.39,211.65,268.35,219.21]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"Rectangle 11","bbox":[665.2,162.52,283.46,283.46]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"Rectangle 12","text":"🔵  Theory of MEV I","textPreview":"🔵  Theory of MEV I","textChars":19,"textLines":1,"bbox":[665.2,162.52,283.46,41.57]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"TextBox 13","text":"提取：收益须有反事实比较\n用途：窗口仅是暴露前提，\n不是 MEV 结论","textPreview":"提取：收益须有反事实比较 | 用途：窗口仅是暴露前提， | 不是 MEV 结论","textChars":35,"textLines":3,"bbox":[672.76,211.65,268.35,219.21]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"第 4 页","textShapes":11}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"TextBox 1","text":"第 4 页","textPreview":"第 4 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"TextBox 2","text":"三个时间量：对象、锚点与含义分开","textPreview":"三个时间量：对象、锚点与含义分开","textChars":16,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"TextBox 4","text":"仅比较同一对象的可复核链上时间；不等同于攻击窗口或利润。 ","textPreview":"仅比较同一对象的可复核链上时间；不等同于攻击窗口或利润。","textChars":29,"textLines":1,"bbox":[75.59,124.72,1058.27,30.24]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"Rectangle 5","text":"W_ingest（消息）","textPreview":"W_ingest（消息）","textChars":12,"textLines":1,"bbox":[75.59,162.52,453.54,71.81]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"TextBox 6","text":"t(L2 TicketCreated) − t(L1 投递)","textPreview":"t(L2 TicketCreated) − t(L1 投递)","textChars":30,"textLines":1,"bbox":[548.03,162.52,604.72,71.81]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"Rectangle 7","text":"W_effect（消息）","textPreview":"W_effect（消息）","textChars":12,"textLines":1,"bbox":[75.59,253.23,453.54,71.81]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"TextBox 8","text":"t(L2 首次成功 redeem) − t(L1 投递)","textPreview":"t(L2 首次成功 redeem) − t(L1 投递)","textChars":28,"textLines":1,"bbox":[548.03,253.23,604.72,71.81]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"Rectangle 9","text":"P_lag（batch）","textPreview":"P_lag（batch）","textChars":12,"textLines":1,"bbox":[75.59,343.94,453.54,71.81]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"TextBox 10","text":"t(L1 发布) − t(batch 最后一 L2 区块)","textPreview":"t(L1 发布) − t(batch 最后一 L2 区块)","textChars":29,"textLines":1,"bbox":[548.03,343.94,604.72,71.81]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"Rectangle 11","text":"边界","textPreview":"边界","textChars":2,"textLines":1,"bbox":[75.59,434.65,453.54,71.81]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"TextBox 12","text":"三项均是时间事实；是否可利用仍需能力、行为与收益证据","textPreview":"三项均是时间事实；是否可利用仍需能力、行为与收益证据","textChars":26,"textLines":1,"bbox":[548.03,434.65,604.72,71.81]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"第 8 页","textShapes":6}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"TextBox 1","text":"第 8 页","textPreview":"第 8 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"TextBox 2","text":"对象映射与三角色威胁模型","textPreview":"对象映射与三角色威胁模型","textChars":12,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"Rectangle 4","text":"可映射对象（已做）","textPreview":"可映射对象（已做）","textChars":9,"textLines":1,"bbox":[75.59,128.5,1096.06,32.13]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"TextBox 5","text":"L1 InboxMessageDelivered\n→ Bridge.MessageDelivered\n→ retryable ticket / L2 TicketCreated\n\nSequencerBatchDelivered\n→ NodeInterface 查询 L2 block range","textPreview":"L1 InboxMessageDelivered | → Bridge.MessageDelivered | → retryable ticket / L2 TicketCreated |  | SequencerBatchDelivered | → NodeInterfa...","textChars":147,"textLines":6,"bbox":[75.59,161.28,1096.06,225.6]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"Rectangle 6","text":"能力边界（不越界）","textPreview":"能力边界（不越界）","textChars":9,"textLines":1,"bbox":[75.59,412.8,1096.06,32.13]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"TextBox 7","text":"Sequencer：可能影响纳入/排序；内部私有视图不可观测\n攻击者：仅在公开或可推断信息后行动\n用户：仅提交交易；本周未推断主体身份或利润","textPreview":"Sequencer：可能影响纳入/排序；内部私有视图不可观测 | 攻击者：仅在公开或可推断信息后行动 | 用户：仅提交交易；本周未推断主体身份或利润","textChars":70,"textLines":3,"bbox":[75.59,451.2,1096.06,192]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"第 6 页","textShapes":9}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"TextBox 1","text":"第 6 页","textPreview":"第 6 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"TextBox 2","text":"预实验方法：可追溯、可复现、非正式实验","textPreview":"预实验方法：可追溯、可复现、非正式实验","textChars":19,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"Rectangle 5","text":"采样范围","textPreview":"采样范围","textChars":4,"textLines":1,"bbox":[75.59,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"TextBox 6","text":"finalized 锚点附近\n连续 1,500 个 L1 区块","textPreview":"finalized 锚点附近 | 连续 1,500 个 L1 区块","textChars":31,"textLines":2,"bbox":[75.59,238.11,359.06,143.62]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"Rectangle 7","text":"batch 路径","textPreview":"batch 路径","textChars":8,"textLines":1,"bbox":[472.44,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"TextBox 8","text":"SequencerBatchDelivered\n+ NodeInterface.findBatchContainingBlock\n得到 batch 的 L2 block range","textPreview":"SequencerBatchDelivered | + NodeInterface.findBatchContainingBlock | 得到 batch 的 L2 block range","textChars":90,"textLines":3,"bbox":[472.44,238.11,359.06,143.62]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"Rectangle 9","text":"消息路径","textPreview":"消息路径","textChars":4,"textLines":1,"bbox":[869.29,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"TextBox 10","text":"Inbox / Bridge 事件\n+ SDK 同构 retryable ID 推导\n+ L2 TicketCreated 精确比对","textPreview":"Inbox / Bridge 事件 | + SDK 同构 retryable ID 推导 | + L2 TicketCreated 精确比对","textChars":66,"textLines":3,"bbox":[869.29,238.11,359.06,143.62]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"Rectangle 11","bbox":[75.59,415.75,1114.96,75.59]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"TextBox 12","text":"保存：原始 JSON-RPC、处理 CSV、合约代码哈希、日志与脚本；所有结果可从固定锚点重跑。","textPreview":"保存：原始 JSON-RPC、处理 CSV、合约代码哈希、日志与脚本；所有结果可从固定锚点重跑。","textChars":48,"textLines":1,"bbox":[86.93,419.53,1096.06,68.03]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"第 9 页","textShapes":9}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"TextBox 1","text":"第 9 页","textPreview":"第 9 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"TextBox 2","text":"预实验① batch：范围映射与 P_lag","textPreview":"预实验① batch：范围映射与 P_lag","textChars":22,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"Rectangle 5","text":"映射质量","textPreview":"映射质量","textChars":4,"textLines":1,"bbox":[75.59,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"TextBox 6","text":"40 / 40 连续 batch\n范围映射成功","textPreview":"40 / 40 连续 batch | 范围映射成功","textChars":23,"textLines":2,"bbox":[75.59,238.11,359.06,143.62]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"Rectangle 7","text":"P_lag 分布","textPreview":"P_lag 分布","textChars":8,"textLines":1,"bbox":[472.44,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"TextBox 8","text":"最小 7 s｜中位 16.5 s\n均值 17.275 s｜P95 28.15 s\n最大 39 s","textPreview":"最小 7 s｜中位 16.5 s | 均值 17.275 s｜P95 28.15 s | 最大 39 s","textChars":48,"textLines":3,"bbox":[472.44,238.11,359.06,143.62]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"Rectangle 9","text":"对象与解释","textPreview":"对象与解释","textChars":5,"textLines":1,"bbox":[869.29,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"TextBox 10","text":"40 个样本均为 Blob batch\n度量 L1 发布相对 batch 末端 L2 区块的时间差","textPreview":"40 个样本均为 Blob batch | 度量 L1 发布相对 batch 末端 L2 区块的时间差","textChars":49,"textLines":2,"bbox":[869.29,238.11,359.06,143.62]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"Rectangle 11","bbox":[75.59,415.75,1114.96,75.59]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"TextBox 12","text":"结论边界：P_lag 可观测；未测量交易位置偏置、攻击主体、收益或因果效应。","textPreview":"结论边界：P_lag 可观测；未测量交易位置偏置、攻击主体、收益或因果效应。","textChars":38,"textLines":1,"bbox":[86.93,419.53,1096.06,68.03]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"第 5 页","textShapes":11}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"TextBox 1","text":"第 5 页","textPreview":"第 5 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"TextBox 2","text":"预实验②：retryable 消息映射","textPreview":"预实验②：retryable 消息映射","textChars":19,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"TextBox 4","text":"全部样本的 ticket ID 均由 L1 message number、inbox 地址和 L2 chain ID 确定性推导。 ","textPreview":"全部样本的 ticket ID 均由 L1 message number、inbox 地址和 L2 chain ID 确定性推导。","textChars":66,"textLines":1,"bbox":[75.59,124.72,1058.27,30.24]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"Rectangle 5","text":"精确映射","textPreview":"精确映射","textChars":4,"textLines":1,"bbox":[75.59,162.52,453.54,71.81]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"TextBox 6","text":"25 / 25 retryable\nL1 → L2 ticket 精确匹配","textPreview":"25 / 25 retryable | L1 → L2 ticket 精确匹配","textChars":37,"textLines":2,"bbox":[548.03,162.52,604.72,71.81]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"Rectangle 7","text":"W_ingest","textPreview":"W_ingest","textChars":8,"textLines":1,"bbox":[75.59,253.23,453.54,71.81]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"TextBox 8","text":"404–751 s｜中位 498 s\n均值 551.32 s｜核心字段 100%","textPreview":"404–751 s｜中位 498 s | 均值 551.32 s｜核心字段 100%","textChars":40,"textLines":2,"bbox":[548.03,253.23,604.72,71.81]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"Rectangle 9","text":"W_effect","textPreview":"W_effect","textChars":8,"textLines":1,"bbox":[75.59,343.94,453.54,71.81]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"TextBox 10","text":"本组 25 个样本均自动 redeem\n故与 W_ingest 同值","textPreview":"本组 25 个样本均自动 redeem | 故与 W_ingest 同值","textChars":34,"textLines":2,"bbox":[548.03,343.94,604.72,71.81]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"Rectangle 11","text":"必须保留的解释","textPreview":"必须保留的解释","textChars":7,"textLines":1,"bbox":[75.59,434.65,453.54,71.81]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"TextBox 12","text":"这只是小样本状态；不能外推为一般自动执行规律，更不能据此声称可利用 MEV","textPreview":"这只是小样本状态；不能外推为一般自动执行规律，更不能据此声称可利用 MEV","textChars":37,"textLines":1,"bbox":[548.03,434.65,604.72,71.81]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"第 7 页","textShapes":9}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"TextBox 1","text":"第 7 页","textPreview":"第 7 页","textChars":5,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"TextBox 2","text":"失败诊断、负结果与证据边界","textPreview":"失败诊断、负结果与证据边界","textChars":13,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"Rectangle 5","text":"工程事实","textPreview":"工程事实","textChars":4,"textLines":1,"bbox":[75.59,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"TextBox 6","text":"failure_diagnostics：0 条\n本批 40 / 25 均完成映射","textPreview":"failure_diagnostics：0 条 | 本批 40 / 25 均完成映射","textChars":40,"textLines":2,"bbox":[75.59,238.11,359.06,143.62]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"Rectangle 7","text":"可以报告","textPreview":"可以报告","textChars":4,"textLines":1,"bbox":[472.44,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"TextBox 8","text":"E1：对象与时间锚点可复核\nE2：小样本数据链路可复现\n不等于 E3 行为归因或 E4 收益结论","textPreview":"E1：对象与时间锚点可复核 | E2：小样本数据链路可复现 | 不等于 E3 行为归因或 E4 收益结论","textChars":48,"textLines":3,"bbox":[472.44,238.11,359.06,143.62]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"Rectangle 9","text":"尚不能报告","textPreview":"尚不能报告","textChars":5,"textLines":1,"bbox":[869.29,196.54,359.06,37.8]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"TextBox 10","text":"排序偏置、可疑交易频率\n地址集中度、revert / 执行质量\n利润、攻击因果、方案防御效果","textPreview":"排序偏置、可疑交易频率 | 地址集中度、revert / 执行质量 | 利润、攻击因果、方案防御效果","textChars":46,"textLines":3,"bbox":[869.29,238.11,359.06,143.62]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"Rectangle 11","bbox":[75.59,415.75,1114.96,75.59]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"TextBox 12","text":"“没有记录失败”只说明本次目标样本链路可用；不能从窗口存在推断存在可利用 MEV。","textPreview":"“没有记录失败”只说明本次目标样本链路可用；不能从窗口存在推断存在可利用 MEV。","textChars":41,"textLines":1,"bbox":[86.93,419.53,1096.06,68.03]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"第 10 页","textShapes":6}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"TextBox 1","text":"第 10 页","textPreview":"第 10 页","textChars":6,"textLines":1,"bbox":[59.34,26.83,72.19,21.92]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"TextBox 2","text":"下周：先做正式实验准入判定，再决定是否扩展","textPreview":"下周：先做正式实验准入判定，再决定是否扩展","textChars":21,"textLines":1,"bbox":[59.34,49.89,1104,55.56]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"Rectangle 3","bbox":[59.34,107.72,1104,1.89]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"Rectangle 4","text":"P0｜准入条件（先验收）","textPreview":"P0｜准入条件（先验收）","textChars":12,"textLines":1,"bbox":[75.59,128.5,1096.06,32.13]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"TextBox 5","text":"1. 多个 L1 时间段的映射成功率与锚点一致性\n2. 字段完整性、失败分类和脚本可重跑性\n3. 足够样本后才测描述性分布；不预设因果结论","textPreview":"1. 多个 L1 时间段的映射成功率与锚点一致性 | 2. 字段完整性、失败分类和脚本可重跑性 | 3. 足够样本后才测描述性分布；不预设因果结论","textChars":69,"textLines":3,"bbox":[75.59,161.28,1096.06,225.6]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"Rectangle 6","text":"P1｜条件分支与最小机制","textPreview":"P1｜条件分支与最小机制","textChars":12,"textLines":1,"bbox":[75.59,412.8,1096.06,32.13]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"TextBox 7","text":"若准入满足：扩样并固化描述性指标；若不满足：修链路或收缩问题。\nBlind commit-reveal 仅写最小草案：排序前隐藏内容、揭示后验承诺；不声称证明、Gas 或防御效果。","textPreview":"若准入满足：扩样并固化描述性指标；若不满足：修链路或收缩问题。 | Blind commit-reveal 仅写最小草案：排序前隐藏内容、揭示后验承诺；不声称证明、Gas 或防御效果。","textChars":90,"textLines":2,"bbox":[75.59,451.2,1096.06,192]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}

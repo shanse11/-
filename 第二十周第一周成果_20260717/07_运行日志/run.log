@@ -1,0 +1,8 @@
+{
+  "completed_at": "2026-07-23T08:31:23.646089+00:00",
+  "batch_rows": 40,
+  "message_rows": 25,
+  "diagnostic_rows": 0,
+  "l1_rpc_calls": 70,
+  "l2_rpc_calls": 737
+}

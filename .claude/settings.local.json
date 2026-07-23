@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(deep-research)",
+      "WebSearch",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:eprint.iacr.org)",
+      "Skill(paper-read)",
+      "Bash(pdftotext \"15_Network_Fairness_Frontrunning_Probability.pdf\" -)",
+      "Bash(pip3 list *)",
+      "Bash(python3 -c \"import PyPDF2; print\\('ok'\\)\")",
+      "Bash(python3 -c \"import pdfminer; print\\('ok'\\)\")",
+      "Bash(python3 -c \"import fitz; print\\('ok'\\)\")",
+      "Read(//private/tmp/claude_test_complex/**)",
+      "Bash(python3 src/hello.py)"
+    ]
+  }
+}

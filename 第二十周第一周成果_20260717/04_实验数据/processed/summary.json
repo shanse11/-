@@ -1,0 +1,67 @@
+{
+  "experiment_type": "预实验 / 数据链路验证（非正式实验）",
+  "run_at_utc": "2026-07-23T08:31:23.591071+00:00",
+  "l1_range": {
+    "start_block": 25592648,
+    "end_block": 25594147,
+    "span": 1500
+  },
+  "finalized_anchor": {
+    "number": 25594147,
+    "hash": "0x89da075fac4dcfcec4d54c497224fc4a74e583e49e480c435aecc27a2c5e5e4d",
+    "timestamp": 1784794199
+  },
+  "batch": {
+    "sample_n": 40,
+    "mapping_status": {
+      "range": 40
+    },
+    "p_lag_seconds_last_block": {
+      "n": 40,
+      "min": 7.0,
+      "p50": 16.5,
+      "mean": 17.275,
+      "p95": 28.14999999999999,
+      "max": 39.0
+    }
+  },
+  "message": {
+    "candidate_retryable_n": 25,
+    "mapping_status": {
+      "exact": 25
+    },
+    "redeem_status": {
+      "auto_redeem_success": 25
+    },
+    "w_ingest_seconds": {
+      "n": 25,
+      "min": 404.0,
+      "p50": 498.0,
+      "mean": 551.32,
+      "p95": 746.4,
+      "max": 751.0
+    },
+    "w_effect_seconds": {
+      "n": 25,
+      "min": 404.0,
+      "p50": 498.0,
+      "mean": 551.32,
+      "p95": 746.4,
+      "max": 751.0
+    }
+  },
+  "field_completeness": {
+    "l1_tx_hash": 1.0,
+    "l1_block_number": 1.0,
+    "l1_block_hash": 1.0,
+    "l1_block_timestamp": 1.0,
+    "message_number": 1.0,
+    "sender": 1.0,
+    "retryable_creation_id": 1.0,
+    "mapping_status": 1.0,
+    "mapping_method": 1.0,
+    "mapping_confidence": 1.0
+  },
+  "failure_categories": {},
+  "interpretation_boundary": "窗口/滞后仅为时间关系；本预实验不测量攻击频率、排序偏置、地址实体归属、MEV 利润或协议防御效果。"
+}

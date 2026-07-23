@@ -1,0 +1,31 @@
+{
+  "l1_finalized_block": {
+    "number": 25594147,
+    "hash": "0x89da075fac4dcfcec4d54c497224fc4a74e583e49e480c435aecc27a2c5e5e4d",
+    "timestamp": 1784794199
+  },
+  "code_query_block_tag": "0x1868923",
+  "contracts": {
+    "Bridge": {
+      "address": "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a",
+      "code_bytes": 2147,
+      "code_hash": "0x8736329b580cfc0c0c39ee6700515e0bc51652afb614640db9e34a5d784933e8"
+    },
+    "SequencerInbox": {
+      "address": "0x1c479675ad559DC151F6Ec7ed3FbF8ceE79582B6",
+      "code_bytes": 2147,
+      "code_hash": "0x8736329b580cfc0c0c39ee6700515e0bc51652afb614640db9e34a5d784933e8"
+    },
+    "Inbox": {
+      "address": "0x4Dbd4fc535Ac27206064B68FfCf827b0A60BAB3f",
+      "code_bytes": 2092,
+      "code_hash": "0x685718cbe6f1ee62236ffbab640612cebc70c6cc69a54aacb83d0790d42e247a"
+    }
+  },
+  "abi_and_source": {
+    "IBridge": "https://github.com/OffchainLabs/nitro-contracts/blob/master/src/bridge/IBridge.sol",
+    "ISequencerInbox": "https://github.com/OffchainLabs/nitro-contracts/blob/master/src/bridge/ISequencerInbox.sol",
+    "AbsInbox": "https://github.com/OffchainLabs/nitro-contracts/blob/master/src/bridge/AbsInbox.sol",
+    "NodeInterface": "https://github.com/OffchainLabs/nitro-contracts/blob/master/src/node-interface/NodeInterface.sol"
+  }
+}

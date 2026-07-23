@@ -1,0 +1,52 @@
+{
+  "run_at_utc": "2026-07-23T08:27:35.778572+00:00",
+  "experiment_type": "预实验 / 数据链路验证",
+  "l1_chain_id": 1,
+  "l2_chain_id": 42161,
+  "l1_rpc_type": "public unauthenticated JSON-RPC (URL intentionally not persisted)",
+  "l2_rpc_type": "public unauthenticated JSON-RPC (URL intentionally not persisted)",
+  "l1_finalized_block": {
+    "number": 25594147,
+    "hash": "0x89da075fac4dcfcec4d54c497224fc4a74e583e49e480c435aecc27a2c5e5e4d",
+    "timestamp": 1784794199
+  },
+  "query_range": {
+    "start_block": 25592648,
+    "end_block": 25594147,
+    "span": 1500
+  },
+  "contracts": {
+    "Bridge": "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a",
+    "SequencerInbox": "0x1c479675ad559DC151F6Ec7ed3FbF8ceE79582B6",
+    "Inbox": "0x4Dbd4fc535Ac27206064B68FfCf827b0A60BAB3f",
+    "NodeInterface": "0x00000000000000000000000000000000000000C8"
+  },
+  "batch_limit": 40,
+  "message_limit": 25,
+  "code": "run_preexperiment.py + derive_retryable_ids.mjs",
+  "raw_log_counts": {
+    "SequencerBatchDelivered": 123,
+    "Bridge.MessageDelivered": 176,
+    "InboxMessageDelivered": 53
+  },
+  "summary_file": "04_实验数据/processed/summary.json",
+  "contract_code_metadata": {
+    "Bridge": {
+      "address": "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a",
+      "code_bytes": 2147,
+      "code_hash": "0x8736329b580cfc0c0c39ee6700515e0bc51652afb614640db9e34a5d784933e8"
+    },
+    "SequencerInbox": {
+      "address": "0x1c479675ad559DC151F6Ec7ed3FbF8ceE79582B6",
+      "code_bytes": 2147,
+      "code_hash": "0x8736329b580cfc0c0c39ee6700515e0bc51652afb614640db9e34a5d784933e8"
+    },
+    "Inbox": {
+      "address": "0x4Dbd4fc535Ac27206064B68FfCf827b0A60BAB3f",
+      "code_bytes": 2092,
+      "code_hash": "0x685718cbe6f1ee62236ffbab640612cebc70c6cc69a54aacb83d0790d42e247a"
+    }
+  },
+  "contract_code_query_block_tag": "0x1868923",
+  "contract_metadata_file": "04_实验数据/processed/contract_metadata.json"
+}

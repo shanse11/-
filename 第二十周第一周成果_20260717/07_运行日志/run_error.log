@@ -1,0 +1,6 @@
+{
+  "failed_at": "2026-07-23T08:22:44.739350+00:00",
+  "error": "CalledProcessError(1, ['node', '/Users/shanse/Desktop/组会/第二十周第一周成果_20260717/03_实验代码/derive_retryable_ids.mjs', '/Users/shanse/Desktop/组会/第二十周第一周成果_20260717/04_实验数据/processed/retryable_derivation_inputs.json', '/Users/shanse/Desktop/组会/第二十周第一周成果_20260717/04_实验数据/processed/retryable_derivation_outputs.json'])",
+  "l1_rpc_calls": 45,
+  "l2_rpc_calls": 923
+}
